@@ -8,7 +8,9 @@ import streamlit as st
 
 # Configurazione Pagina Streamlit
 st.set_page_config(
-    page_title="Riclassificazione Fatture Trasporti", layout="wide"
+    page_title="Riclassificazione Fatture Trasporti",
+    page_icon=":turks_caicos_islands:",
+    layout="wide"
 )
 
 st.title("🚚 Tool Riclassificazione Fatture Trasporti per Competenza")
